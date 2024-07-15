@@ -15,3 +15,9 @@ div
     width: 350px;
 
 }
+.container
+{
+    border: 2px solid black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+}
